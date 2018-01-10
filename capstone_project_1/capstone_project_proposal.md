@@ -37,20 +37,18 @@ The Yelp dataset includes the following attributes for each business:
 In this dataset, we have a combination of categorical, binary, and numeric data types that could be used. 
 
 The Zillow dataset contains the following attributes for each property:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1. RegionID
+2. RegionName - Categorical String
+3. ZHVI - numeric
+
+Multiple datasets exist which may be of interest. Within the Zillow dataset. To be discussed with mentor.
 
 
 ```
 
 In brief, outline your approach to solving this problem (knowing that this might change later).
 ```
+To be discussed
 
 ```
 
