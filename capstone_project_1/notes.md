@@ -78,7 +78,6 @@ Engineered Features
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv. Repeat using the list for the 'other' medical centers
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v. Populate the data frame using the functions
 2. Nearby grocery store
-
 3. Nearby police station
 4. Proximity to a fire station
 5. Airport proximity
@@ -101,4 +100,10 @@ Source: https://www.moneytalksnews.com/20-clues-youre-buying-home-the-right-neig
 Source: https://list.juwai.com/news/2015/10/9-things-chinese-look-at-when-property-hunting
 ```
 
+2016 entries: 2,985,217 entries with 58 columns
+2017 entries: 2,985,217 entries 
+
+Consideration: only 25k API calls per day
+Import using python_http_client
+do I store the JSON?
 
