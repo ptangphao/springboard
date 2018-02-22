@@ -107,3 +107,15 @@ Consideration: only 25k API calls per day
 Import using python_http_client
 do I store the JSON?
 
+1/25
+Take the latest data
+If later on, we want to improve the machine learning algorithm, we'll start looking back
+
+Distinct zip code
+Consider school district
+
+if data size is small, save as a variable, and write it to a flat file
+
+Todo: engineer features
+
+
