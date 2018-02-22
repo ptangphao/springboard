@@ -118,4 +118,7 @@ if data size is small, save as a variable, and write it to a flat file
 
 Todo: engineer features
 
+1/22
+Consider applying nearest neighbor algorithm to reduce run time complexity of the distance algorithms?
 
+Currently the distance algorithms are m * n complexity
